@@ -1,3 +1,7 @@
+Meta-Chatscript
+
+Personality artificial intelligence module for intelligent meta-lifeforms architected to be created, sold and reproduced in the yourearth metave service.
+
 # Status
 The former repository of ChatScript was at https://github.com/bwilcox-1234/ChatScript, however, I lost
 access to this repository (2 factor authentication lost that I didn't want in the first place and I could not convince
