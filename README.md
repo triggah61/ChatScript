@@ -1,6 +1,6 @@
 # Meta-thought Engine
 
-Personality artificial intelligence module for intelligent meta-lifeforms architected to be created, sold and reproduced in the yourearth metave service.
+Personality artificial intelligence module for intelligent meta-lifeforms architected to be created, sold and reproduced in the yourearth metaverse service.
 
 # Status
 The former repository of ChatScript was at https://github.com/bwilcox-1234/ChatScript, however, I lost
